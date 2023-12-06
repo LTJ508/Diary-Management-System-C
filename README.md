@@ -6,7 +6,7 @@ If user open this program first time, program will ask to set new username, pass
 ![image](https://github.com/LTJ508/Diary-Management-System-C/assets/146023894/7dc59269-0166-4f59-9a34-d38d80b41140)
 If user open this program next time, it will ask user to verify username and password.
 ![image](https://github.com/LTJ508/Diary-Management-System-C/assets/146023894/d3d9e7ce-1af1-4dc4-b11d-a3529fa696a1)
-In verification, password will not be shown.
+<br>In verification, password will not be shown.
 
 # Key Features
 1.	Notebooks
